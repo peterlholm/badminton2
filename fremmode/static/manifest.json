@@ -1,0 +1,21 @@
+{
+    "short_name": "Badminton2",
+    "name": "Albertlund Badminton2",
+    "icons": [{
+            "src": "/static/pic/bad192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/static/pic/bad512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "/?source=pwa",
+    "background_color": "#FFFFF0",
+    "display": "standalone",
+    "scope": "/",
+    "orientation": "portrait-primary",
+    "theme_color": "#1e90ff"
+}
