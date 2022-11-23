@@ -1,6 +1,6 @@
 {
-    "short_name": "Badminton2",
     "name": "Albertlund Badminton2",
+    "short_name": "Badminton2",
     "description":"Dette er vores planlægnings app",
     "icons": [{
             "src": "/static/pic/bad192.png",
@@ -56,7 +56,7 @@
         }
     ],
     "id": "Albertlund Badminton",
-    "start_url": "https://badminton2.net4us.dk/",
+    "start_url": "/",
     "background_color": "#FFFFF0",
     "display": "standalone",
     "scope": "/",
